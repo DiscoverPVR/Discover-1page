@@ -6754,4 +6754,8 @@ button.close {
     display: none !important;
   }
 }
+
+.logoNavBar{
+  margin-top: -1vh;
+}
 /*# sourceMappingURL=bootstrap.css.map */

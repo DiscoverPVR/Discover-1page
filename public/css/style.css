@@ -205,10 +205,11 @@ a:focus,
 }
 /* Header Section */
 .intro {
+  /* margin-top: -20vh; */
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/vehicles.JPG) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
