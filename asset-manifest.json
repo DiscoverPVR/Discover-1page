@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Discover-1page/static/css/main.ae42ac5f.css",
+    "main.js": "/Discover-1page/static/js/main.364a7084.js",
+    "index.html": "/Discover-1page/index.html",
+    "main.ae42ac5f.css.map": "/Discover-1page/static/css/main.ae42ac5f.css.map",
+    "main.364a7084.js.map": "/Discover-1page/static/js/main.364a7084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.364a7084.js"
+  ]
+}
